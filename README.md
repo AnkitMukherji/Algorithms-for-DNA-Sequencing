@@ -2,6 +2,10 @@
 
 A Python/Jupyter collection exploring the computational foundations of read analysis, sequence matching, alignment, and genome assembly.
 
+## Folder guides
+
+- [DNA sequencing algorithm exercises](Exams/README.md)
+
 ## Notebook pathway
 
 | Stage | Starting notebooks | Concepts |
